@@ -85,7 +85,7 @@
 <body>
   <header>
     <div class="header-content">
-      <img src="/storage/emulated/0/Pictures/Remini/1725538347488.jpg" alt="Your Profile Picture" class="profile-picture">
+      <img src="M.jpg" alt="Your Profile Picture" class="profile-picture">
       <h1>Manikandan.R</h1>
       <p>Web Developer</p>
     </div>
